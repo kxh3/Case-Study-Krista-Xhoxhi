@@ -18,7 +18,7 @@ An assignment that researches and studies a Fintech domain.
     * The company is funded by numerous investors such as Kinnevik, Bessemer Venture Partners, Francisco Partners, Menlo Ventures, Anthemis Group, Globespan Capital Partners, Citi Ventures, The Private Shares Fund, and Aflac Ventures. Through these investors they managed to raise $1.3 billion in funding.
 
 ## Business Activities:
---
+
 * What specific financial problem is the company or project trying to solve?
 
     * The specific financial problem the company is trying to solve is that not enough of the population is recieving the financial advisement needed to help them. In person advisement only reached a certain number of customers, meanwhile robo advising can reach a larger range. Also at the time this company was founded, the population was struggling due to the 2008 crisis and Betterment's goal was to help the population recover. Their goal is to advise customers on where to invest, how to save money, track finances, etc.
@@ -26,10 +26,10 @@ An assignment that researches and studies a Fintech domain.
 
     * The company't inteded customer are regular people who are need help on saving money and investing it. Betterment has a large set of customers totaling at +700,000. Betterment offers trade commission fees from 0.25-0.40%, access to human advisors, and retirement account options. The most common offer among these companies are low fees, but the retirement options offer make Betterment stand out from its competitors.
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
--- 
+    * 
 
 ## Landscape:
--- 
+
 * What domain of the financial industry is the company in?
 
     * The company is a par of the robo advising domain, which is a system that offers financial advising online instead of in person.
@@ -39,23 +39,23 @@ An assignment that researches and studies a Fintech domain.
 * What are the other major companies in this domain?
 
     * Other major companies in this domain are Wealthfront, SoFi, and Personal Capital.
---
+
 
 ## Results:
--- 
+
 * What has been the business impact of this company so far?
 
     * The businees impact of this company so far is that it has provided customers (who are lost in where to invest or how to save their money) great financial advice. It has especially impacted the employers who do not have retirement plans for their employees because they seem to be too time consuming and expensive. Thanks to Betterment, they were able to guide these employers into creating retirement plans, specifically 401k plans, that can help benefit their employees.
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-    * Betterment measures their success based on the satisfaction of their customers, the number of customers they recieve, and if they see that their customers' wealth has grown overtime.
+    * Betterment measures their success based on the satisfaction of their customers, the number of customers they recieve, and if they see that their customers' wealth has grown overtime. The company appears to be performing great based on these metrics. During the first quarter of 2021, Betterment gained over 56,000 new clients. Also, client net-deposits were over $1.5 billion.
 * How is your company performing relative to competitors in the same domain?
 
-    * Compared to other competitors, Betterment has one of the highest received funding at $1.3 billion as mentioned before. Meanwhile
---
+    * As mentioned before Betterment has been doing great based on the major increase in clients and their net deposits. During 2020, Betterment raised over $10 billion which brought their assets under management (AUM) to $29 billion. It also has raised over $1.3 billion in funding, which is greater than most of its competitors. For instance, Human Interest raised about $335 million, Wealthsimple raised over $700 million, and Acorns raised over $263 million in funding. 
+
 
 ## Recommendations:
---
+
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
     * I would suggest they could offer more advice and services relating to cryptocurrency since it is not often seen. Betterment could add an additional portfolio that tracks how the customer spends their cryptocurrency and where they can invest it.
@@ -68,8 +68,20 @@ An assignment that researches and studies a Fintech domain.
 * Why are these technologies appropriate for your solution?
 
     * I believe these technologies are appropriate for my solution because Betterment currently does not offer options where you can view your crypotcurrency portfolios. Therefore adding the technology that allows you to connect your crypto wallet to Betterment is neccessary. Especially because you can not buy cryptocurrency on Betterment since that is not the goal of their website.
---
+
 
 ## Works Cited:
---
-https://www.nycfounderguide.com/insight/jon-stein-built-betterment-high-minded-mission-outsider-scrappiness https://www.betterment.com/resources/2021-fundraising https://www.backendbenchmarking.com/blog/2020/06/innovation-trends-of-robo-advice/ https://www.betterment.com/401k/resources/betterment-for-business-a-better-401k-for-employers-and-employees https://www.insiderintelligence.com/insights/best-robo-advisors/
+
+https://www.nycfounderguide.com/insight/jon-stein-built-betterment-high-minded-mission-outsider-scrappiness 
+
+https://www.betterment.com/resources/2021-fundraising 
+
+https://www.backendbenchmarking.com/blog/2020/06/innovation-trends-of-robo-advice/ 
+
+https://www.betterment.com/401k/resources/betterment-for-business-a-better-401k-for-employers-and-employees 
+
+https://www.insiderintelligence.com/insights/best-robo-advisors/
+
+https://www.prnewswire.com/news-releases/betterment-announces-record-growth-in-q1-2021-net-new-clients-up-more-than-100-yoy-301270497.html
+
+https://www.cbinsights.com/company/betterment/competitors-partners
