@@ -1,5 +1,6 @@
 # Case-Study-Krista-Xhoxhi
 An assignment that researches and studies a Fintech domain.
+![https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fbest-design-for-betterment%2F&psig=AOvVaw3CyKctMDD9ZHUhNk3eeiBg&ust=1644720301613000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj5wdyS-fUCFQAAAAAdAAAAABAI](logo.png)
 
 * Name of company
 
@@ -26,7 +27,7 @@ An assignment that researches and studies a Fintech domain.
 
     * The company't inteded customer are regular people who are need help on saving money and investing it. Betterment has a large set of customers totaling at +700,000. Betterment offers trade commission fees from 0.25-0.40%, access to human advisors, and retirement account options. The most common offer among these companies are low fees, but the retirement options offer make Betterment stand out from its competitors.
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-    * 
+    * One of the technologies is called Tax Loss Harvesting, which is a tool that would automatically add +0.77% in after-tax returns annually. Another tool called Tax Coordination will automatically shield clients' dividends from taxes. Other technologies involve retirement planning tools, syncing external financial accounts, and much more. 
 
 ## Landscape:
 
@@ -85,3 +86,5 @@ https://www.insiderintelligence.com/insights/best-robo-advisors/
 https://www.prnewswire.com/news-releases/betterment-announces-record-growth-in-q1-2021-net-new-clients-up-more-than-100-yoy-301270497.html
 
 https://www.cbinsights.com/company/betterment/competitors-partners
+
+https://www.betterment.com/resources/smart-technology-licensed-financial-experts-cfp-professionals
