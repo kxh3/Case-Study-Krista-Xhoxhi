@@ -1,6 +1,6 @@
-# Case-Study-Krista-Xhoxhi
-An assignment that researches and studies a Fintech domain.
-<img src= "Betterment-New-Logo.png">
+# Betterment Fintech Case Study - Krista Xhoxhi
+
+## Overview and Origin
 
 * Name of company
 
