@@ -1,6 +1,6 @@
 # Case-Study-Krista-Xhoxhi
 An assignment that researches and studies a Fintech domain.
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fbest-design-for-betterment%2F&psig=AOvVaw3CyKctMDD9ZHUhNk3eeiBg&ust=1644720301613000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj5wdyS-fUCFQAAAAAdAAAAABAI](logo.png)
+<img src= "Betterment-New-Logo.png">
 
 * Name of company
 
